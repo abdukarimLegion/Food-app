@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abduk/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_fifith.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/abduk/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_fourth_meal_description.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/abduk/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.21859039836567926" />
+        <entry key="..\:/Users/abduk/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_second_add_meal.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/abduk/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_third_meals_view.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/abduk/AndroidStudioProjects/FoodApp/app/src/main/res/layout/item.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
